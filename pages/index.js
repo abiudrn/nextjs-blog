@@ -14,6 +14,13 @@ export default function Home() {
         <h1 className={styles.title}>
           Learn <Link href="/posts/first-post">Next.js!</Link>
         </h1>
+
+        {/* <Image
+        src="/images/profile.jpg"
+        height={144}
+        width={144}
+        alt="Your Name"
+      /> */}
       </main>
 
       <style jsx>{`
